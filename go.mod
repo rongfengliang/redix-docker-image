@@ -9,17 +9,16 @@ require (
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible // indirect
 	github.com/dgryski/go-farm v0.0.0-20180109070241-2de33835d102 // indirect
 	github.com/dustin/go-humanize v1.0.0 // indirect
-	github.com/golang/protobuf v1.2.0 // indirect
 	github.com/golang/snappy v0.0.0-20180518054509-2e65f85255db // indirect
 	github.com/gorilla/websocket v1.4.0
 	github.com/kr/pretty v0.1.0 // indirect
-	github.com/kr/pty v1.1.3 // indirect
 	github.com/labstack/echo v3.3.5+incompatible
 	github.com/labstack/gommon v0.2.8 // indirect
 	github.com/mattn/go-colorable v0.0.9 // indirect
 	github.com/mattn/go-isatty v0.0.4 // indirect
+	github.com/onsi/ginkgo v1.10.3 // indirect
+	github.com/onsi/gomega v1.7.1 // indirect
 	github.com/pkg/errors v0.8.1 // indirect
-	github.com/rs/xid v1.2.1
 	github.com/satori/go.uuid v1.2.1-0.20181028125025-b2ce2384e17b
 	github.com/sirupsen/logrus v1.2.0
 	github.com/syndtr/goleveldb v0.0.0-20181128100959-b001fa50d6b2
@@ -33,3 +32,5 @@ require (
 	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
 	gopkg.in/resty.v1 v1.10.3
 )
+
+go 1.13
